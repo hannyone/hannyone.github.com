@@ -4,7 +4,7 @@ title: Hello World
 ---
 
 First Post
-'''java
+```java
 String str = "hello world!";
 System.out.println(str);
-'''
+```
